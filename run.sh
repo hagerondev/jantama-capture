@@ -1,0 +1,1 @@
+mitmdump -s analyze.py -p 9999 --set flow_detail=-0 --quiet
